@@ -1,5 +1,12 @@
 # Super-Store-Sales-Analysis
 
+## Table of Contents:
+- Project Overview
+- Tools
+- Data preparation
+- Exploratory Data Analysis
+- Results
+  
 ## Project Overview:
 This data analysis project aims to provide insights into the sales performance of an super store over the past year. By analyzing various aspects of the sales data and forecasting, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the store's performance.
 
