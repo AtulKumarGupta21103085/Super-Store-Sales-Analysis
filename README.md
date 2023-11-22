@@ -10,15 +10,15 @@ This data analysis project aims to provide insights into the sales performance o
 
 ## Data preparation: 
 In the initial data preparation phase, we performed the following tasks:
- • Data loading and inspection.
- • Handling missing values.
- • Data cleaning and formatting.
+ 1. Data loading and inspection.
+ 2. Handling missing values.
+ 3. Data cleaning and formatting.
 
 ## Exploratory Data Analysis:
 It involved exploring the sales data to answer key questions, such as:
-• What is the overall sales trend?
-• Which products are top sellers?
-• What are the peak sales periods?
+- What is the overall sales trend?
+- Which products are top sellers?
+- What are the peak sales periods?
 
 ## Results:
 • The store's sales have been steadily increasing over the past year and unlock the power of precise sales forecasting.
