@@ -4,9 +4,9 @@
 This data analysis project aims to provide insights into the sales performance of an super store over the past year. By analyzing various aspects of the sales data and forecasting, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the store's performance.
 
 ## Tools:
- • Excel - Data Cleaning
- • SQl Sever - Data analysis
- • Power BI - Creating reports
+ 1. Excel - Data Cleaning
+ 2. SQl Sever - Data analysis
+ 3. Power BI - Creating reports
 
 ## Data preparation: 
 In the initial data preparation phase, we performed the following tasks:
