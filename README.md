@@ -1,7 +1,7 @@
 # Super-Store-Sales-Analysis
 
 ## Table of Contents
-- Project Overview(#Project-Overview)
+- Project Overview(#project-overview)
 - Tools
 - Data preparation
 - Exploratory Data Analysis
