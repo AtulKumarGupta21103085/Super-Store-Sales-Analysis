@@ -21,4 +21,4 @@ It involved exploring the sales data to answer key questions, such as:
 - What are the peak sales periods?
 
 ## Results:
-• The store's sales have been steadily increasing over the past year and unlock the power of precise sales forecasting.
+- The store's sales have been steadily increasing over the past year and unlock the power of precise sales forecasting.
